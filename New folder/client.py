@@ -2,11 +2,8 @@ import socket
 from tkinter import *
 import time
 import threading
-import flask
-
 
 global box
-
 
 HEADER = 64
 PORT = 5050 
